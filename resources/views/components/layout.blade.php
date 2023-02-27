@@ -7,7 +7,10 @@
     <title>{{ $title ?? 'Laravel for PHP developers' }}</title>
 
     <!-- Fonts -->
+
+
     <script src="https://cdn.tailwindcss.com"></script>
+
 
     <!-- Styles -->
     <style>
